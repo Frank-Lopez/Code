@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+
+table{
+    margin-top: 50px;
+    caption-side:bottom ;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td,th{
+ padding: 10px 20px 10px 20px;
+ text-align: center;
+}
+
+#conten{
+    min-width: 900px;
+    overflow: auto;
+}
